@@ -1,3 +1,5 @@
+![Morocco Local Support Banner](assets/in Morocco.png)
+
 # Morocco Local Support
 
 Reliable on-the-ground assistance in Morocco for foreign clients, businesses, buyers, travelers and entrepreneurs.
