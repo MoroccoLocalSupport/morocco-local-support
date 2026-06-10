@@ -1,4 +1,4 @@
-![Morocco Local Support Banner](assets/banner.png)
+![Morocco Local Support Banner](assets/in Morocco.png)
 
 # Morocco Local Support
 
