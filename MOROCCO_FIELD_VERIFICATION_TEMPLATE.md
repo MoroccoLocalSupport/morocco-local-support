@@ -1,0 +1,123 @@
+# Morocco Field Verification Report Template
+
+This is a sample structure used by Morocco Local Support for field verification or local check missions in Morocco.
+
+This template is provided for transparency and may be adapted depending on the client request, location, feasibility and legal limitations.
+
+---
+
+## 1. Client Request
+
+**Client objective:**  
+Describe the purpose of the request.
+
+**Type of verification:**  
+Address check / supplier check / business location check / property visit / product check / custom local task.
+
+**City or area in Morocco:**  
+Add the city, neighborhood or location.
+
+**Deadline:**  
+Add the expected delivery date.
+
+---
+
+## 2. Scope of Work
+
+The Morocco field verification may include one or more of the following:
+
+- Address or location check
+- Public information review
+- Local presence observation
+- Photos or videos when allowed
+- Supplier or business communication
+- Product or price information
+- Local notes and practical observations
+- Risk indicators
+- Summary and recommendation
+
+---
+
+## 3. Information Provided by the Client
+
+- Name of company, supplier or person to contact
+- Address or location details
+- Phone number, website or links
+- Documents or screenshots provided by the client
+- Specific questions to answer
+- Expected result
+
+---
+
+## 4. Local Verification Notes
+
+**Date of local check:**  
+Add date.
+
+**Location checked:**  
+Add location.
+
+**Observed local presence:**  
+Describe visible and allowed observations.
+
+**Publicly visible activity:**  
+Describe what can be observed legally and ethically.
+
+**Communication result:**  
+Summarize calls, messages or responses if included.
+
+---
+
+## 5. Photos / Videos
+
+Photos or videos may be included only when allowed and appropriate.
+
+**Available media:**  
+Yes / No
+
+**Media notes:**  
+Briefly describe what was documented.
+
+---
+
+## 6. Risk Indicators
+
+**Low risk indicators:**  
+Mention positive signs.
+
+**Medium risk indicators:**  
+Mention points needing caution.
+
+**High risk indicators:**  
+Mention serious warning signs if observed.
+
+---
+
+## 7. Summary
+
+Provide a clear and short summary of the findings.
+
+Example:
+
+The provided location appears to correspond to the client request. Publicly visible signs and local observations suggest that the place exists. Further verification may be recommended before payment or business commitment.
+
+---
+
+## 8. Recommendation
+
+Possible recommendations:
+
+- Proceed with caution
+- Request additional documents
+- Ask for a sample or small test order
+- Schedule a call or meeting
+- Conduct a deeper local check
+- Avoid payment until more information is confirmed
+
+---
+
+## Disclaimer
+
+This report is not a legal certification, audit, private investigation, guarantee or official government verification.
+
+It is a practical local support document based on available information, public observations, allowed communication and client-provided details.

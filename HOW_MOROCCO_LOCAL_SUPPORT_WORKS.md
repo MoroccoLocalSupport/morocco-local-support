@@ -1,0 +1,36 @@
+# How Morocco Local Support Works
+
+Morocco Local Support follows a simple and structured process for local assistance requests in Morocco.
+
+## 1. Client Request
+
+The client explains the task, location, objective, deadline and expected result.
+
+## 2. Feasibility Check
+
+We review the request and confirm whether it can be handled legally, ethically and practically in Morocco.
+
+## 3. Scope Definition
+
+We define what will be checked, researched, coordinated or reported.
+
+## 4. Local Execution
+
+Depending on the request, we may perform local research, contact Moroccan parties, compare prices, coordinate appointments, or complete a field task.
+
+## 5. Clear Feedback
+
+The client receives clear feedback, notes, a summary or a structured report depending on the package and request.
+
+## 6. Follow-up
+
+Additional follow-up can be provided when needed.
+
+## Our Principles
+
+- Legal and ethical local support
+- Clear communication
+- Practical execution
+- Respect for privacy
+- No misleading promises
+- No illegal or confidential data collection
